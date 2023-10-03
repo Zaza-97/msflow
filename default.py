@@ -23,7 +23,7 @@ workers = 4
 
 
 # dataset
-data_path = './data/MVTec'
+data_path = '/kaggle/input/mvtec-ad'
 # ['bottle', 'cable', 'capsule', 'carpet', 'grid',
 # 'hazelnut', 'leather', 'metal_nut', 'pill', 'screw',
 # 'tile', 'toothbrush', 'transistor', 'wood', 'zipper']
